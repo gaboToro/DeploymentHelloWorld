@@ -1,0 +1,12 @@
+{
+  "name": "cloud-hello-world-docker",
+  "version": "1.0.0",
+  "description": "'Hello World' application with Node.js and Docker for a multi-cloud deployment on DigitalOcean, Heroku and AWS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
